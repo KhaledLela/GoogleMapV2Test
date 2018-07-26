@@ -1,5 +1,6 @@
 
- > TODO   : Before you run your application, you need a Google Maps API key.
+ TODO   : Before you run your application, you need a Google Maps API key.
+ 
  To get one, follow this link, follow the directions and press "Create" at the end:
     https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r={SHA-1}%3Bcom.lelasoft.googlemapv2test
 
