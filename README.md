@@ -8,7 +8,7 @@
     You can also add your credentials to an existing key, using these values:
 
 
-   **SHA-1 certificate fingerprint:**
+**SHA-1 certificate fingerprint:**
   In Android Studio you can find all your app signing information without any console command:
 
   > Open your project
@@ -24,4 +24,4 @@
     
     
     
-    **Implemented how to ask user for enable GeoLocation dialog.**
+**Implemented how to ask user for enable GeoLocation dialog.**
