@@ -1,14 +1,15 @@
 
- TODO   : Before you run your application, you need a Google Maps API key.
+ **Before you run your application, you need a Google Maps API key.**
  
  To get one, follow this link, follow the directions and press "Create" at the end:
+ 
     https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r={SHA-1}%3Bcom.lelasoft.googlemapv2test
 
     You can also add your credentials to an existing key, using these values:
 
 
-    SHA-1 certificate fingerprint:
-     -- In Android Studio you can find all your app signing information without any console command:
+   **SHA-1 certificate fingerprint:**
+  In Android Studio you can find all your app signing information without any console command:
 
   > Open your project
     
@@ -20,7 +21,7 @@
 
     Alternatively, follow the directions here:
     https://developers.google.com/maps/documentation/android/start#get-key
-
-    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
-    string in this file.
-   
+    
+    
+    
+    **Implemented how to ask user for enable GeoLocation dialog.**
